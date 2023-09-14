@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4d2cc8b69d8f44b01b7a58da4579f086
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tomScoreText: {fileID: 6784554700729717511, guid: 67decb026abba4e43b5d2f37c7beb1d8, type: 3}
+  - jerryScoreText: {fileID: 7664480612439031332, guid: 315cf32d890f643ae8a999bf8beda30c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
